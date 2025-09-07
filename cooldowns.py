@@ -1,0 +1,1 @@
+# manages cooldown logic placeholder
